@@ -1,2 +1,2 @@
 # interp_emotions
-Sparse Autoencoder on Gemma to interpret emotions
+Sparse Autoencoder on Gemma2 2B to interpret emotions
